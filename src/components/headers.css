@@ -1,0 +1,54 @@
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.form-control-dark {
+  color: #fff;
+  background-color: var(--bs-dark);
+  border-color: var(--bs-gray);
+}
+.form-control-dark:focus {
+  color: #fff;
+  background-color: var(--bs-dark);
+  border-color: #fff;
+  box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .25);
+}
+
+.Navbar1{
+  background:linear-gradient(rgba(255, 88, 66, 0.644),transparent);
+  background-color:rgb(255, 206, 71) /*this your primary color*/
+}
+
+.bi {
+  vertical-align: -.125em;
+  fill: currentColor;
+}
+
+.text-small {
+  font-size: 85%;
+}
+
+.dropdown-toggle {
+  outline: 0;
+}
+
+.nav-link {
+  color: black !important;
+
+}
+
+.btn{
+     color: rgb(0, 0, 0) !important   ;
+    /* background-color: #0495c9 !important; */
+    border-color: transparent !important; 
+
+}
+
+.btn:hover, .btn:focus, .btn:active, .btn.active, .open>.dropdown-toggle.btn {
+  color: rgb(0, 0, 0) !important;
+  background-color: #ffb85ca1 !important ;
+}

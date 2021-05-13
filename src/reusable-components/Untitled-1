@@ -1,0 +1,12 @@
+<Nav className="mr-auto nav nav-tabs">
+                    <Nav.Link href="#familyMeals">Family Meals</Nav.Link>
+                    <Nav.Link href="#chickenJoy">Chicken Joy</Nav.Link>
+                    <Nav.Link href="#burgers">Burgers</Nav.Link>
+                    <Nav.Link href="#spaghetti">Jolly Spaghetti</Nav.Link>
+                    <Nav.Link href="#bugerSteak">Burger Steak</Nav.Link>
+                    <Nav.Link href="#superMeals">Super Meals</Nav.Link>
+                    <Nav.Link href="#hotdogAndPies">Jolly Hotdog and Pies</Nav.Link>
+                    <Nav.Link href="#dessertsAndBeverages">Desserts and Beverages</Nav.Link>
+                    <Nav.Link href="#soupsAndSides">Soups and Sides</Nav.Link>
+                    <Nav.Link href="#palabok">Palabok</Nav.Link>
+                </Nav>
